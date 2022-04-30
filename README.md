@@ -1,4 +1,6 @@
-$ git clone https://github.com/Algixcode/asiap
+$ git clone https://github.com/Algixcode/kagak
+
+
 
 
 $cd kagak
