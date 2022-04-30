@@ -1,9 +1,9 @@
-$ git clone https://github.com/Algixcode/kagak
+$ git clone https://github.com/Algixcode/asiap
 
 
 
 
-$cd kagak
+$cd asiap
 
 
 &python kagakenc.py
