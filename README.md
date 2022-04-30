@@ -12,8 +12,8 @@ $cd asiap
 
 List harga 👇
 
-1 Minggu 15
+1 Minggu 10
 
-2 bulan 40
+2 bulan 30
 
-3 tahun 70
+Permanen 70k file
