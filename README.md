@@ -1,7 +1,8 @@
 $ git clone https://github.com/Algixcode/asiap
 
 
-$cd asiap
+$cd kagak
 
 
-&python asiapori1enc.py
+&python 
+.py
